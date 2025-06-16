@@ -6,7 +6,7 @@ Project | My personal portfolio.
 
 ## Link: 
 ```
-.
+https://rhuuuyyyy.github.io/personal_portfolio/
 ```
 
 # Visual
@@ -16,18 +16,19 @@ Project | My personal portfolio.
 
 ### Project Base 
 
-- [ ] Define which projects will be presented on the website.
-- [ ] Define what information will be placed
+- [x] Define which projects will be presented on the website.
+- [x] Define what information will be placed
 
 ### Front-end 
 
-- [ ] Define the visual identity.
-- [ ] Define animations and transitions.
+- [x] Define the visual identity.
+- [x] Define animations and transitions.
+- [x] Responsivity
 
 ### Back-end 
 
-- [ ] Configure the links.
+- [x] Configure the links.
 
 ### Document 
 
-- [ ] Finish 
+- [x] Finish 
